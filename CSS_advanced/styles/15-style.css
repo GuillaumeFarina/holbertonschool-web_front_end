@@ -71,7 +71,7 @@ a:active {
     background-color: var(--color-light-grey);
 }
 
-.svisually-hidden {
+.visually-hidden {
     display: none;
 }
 
