@@ -16,7 +16,7 @@ a {
     color: var(--text-color);
 }
 
-.svisually-hidden {
+.visually-hidden {
     display: none;
 }
 
